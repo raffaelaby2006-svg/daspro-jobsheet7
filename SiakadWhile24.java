@@ -14,6 +14,7 @@ public class SiakadWhile24 {
             }
             if (nilai >= 88 && nilai <= 100) {
                 System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah A");
+                System.out.println("Bagus, pertahankan nilainya!");
             } else if (nilai >= 73 && nilai <= 87) {
                 System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah B+");
             } else if (nilai >= 65 && nilai <= 72) {
